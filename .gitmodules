@@ -1,0 +1,3 @@
+[submodule "lib/PS4-esp32"]
+	path = lib/PS4-esp32
+	url = git@github.com:fr4nt1x/PS4-esp32.git
